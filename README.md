@@ -14,4 +14,4 @@ A company rents bikes under following options:
 
 # Refactor objectives
 1. Apply all the recommended practices you would use in a real project
-2. Design your solution to avoid that changes in prices, discounts and formulas trigger changes on Rental class
+2. Design your solution to avoid that changes in prices, discounts or formulas trigger changes on Rental class
